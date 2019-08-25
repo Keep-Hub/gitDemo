@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <router-link to="/test1">
-      <p>跳转到test1</p>
+      <p>跳转到test12</p>
     </router-link>
   </div>
 </template>
