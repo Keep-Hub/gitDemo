@@ -1,6 +1,6 @@
 <template>
     <div>
-      123
+      <p>版本v1.1</p>
     </div>
 </template>
 
